@@ -1,13 +1,12 @@
-html { 
+
+body{
+  font-family: Georgia, 'Times New Roman', Times, serif;
   background: url("../images/arabic.jpg") no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  background-color: wheat;
-}
-body{
-  font-family: Georgia, 'Times New Roman', Times, serif
+  background-color: tan;
   
 }
 
